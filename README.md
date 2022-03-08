@@ -1,4 +1,4 @@
-# peilabs_basvuru
+# Example-Flutter-Web-Project
 
 A new Flutter project.
 
